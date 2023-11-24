@@ -1,4 +1,4 @@
-This a modified version of UNETR with some changes to better support customized training set.
+This is a modified version of UNETR with some changes to better support the customized training set.
 
 # Model Overview
 This repository contains the code for UNETR: Transformers for 3D Medical Image Segmentation [1]. UNETR is the first 3D segmentation network that uses a pure vision transformer as its encoder without relying on CNNs for feature extraction.
